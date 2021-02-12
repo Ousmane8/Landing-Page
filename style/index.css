@@ -116,3 +116,34 @@ p{
     background-color: rgb(100, 47, 145);
     clip-path: polygon(2.5em 0, 100% 0%, 100% 100%, 2.5em 100%, 25% 70%);
 }
+.titre-promo{
+    margin-top: 5%;
+    color: white;
+    text-align: center;
+    font-weight:bold;
+    font-size:120px;
+    position:relative;
+    line-height:90px;
+    letter-spacing: -8px;
+    text-shadow: #ff6239 1px 1px, #ff6339 2px 2px, #ff643a 3px 3px, #ff663a 4px 4px,
+                #ff673b 5px 5px, #ff683c 6px 6px, #ff693c 7px 7px, #ff6a3d 8px 8px,
+                #ff6b3d 9px 9px, #ff6c3e 10px 10px, #ff6e3f 11px 11px, #ff6f3f 12px 12px,
+                #ff7040 13px 13px, #ff7140 14px 14px, #ff7241 15px 15px, #ff7342 16px 16px,
+                #ff7442 17px 17px, #ff7643 18px 18px, #ff7743 19px 19px, #ff7844 20px 20px,
+                #ff7945 21px 21px, #ff7a45 22px 22px, #ff7b46 23px 23px, #ff7c46 24px 24px,
+                #ff7e47 25px 25px, #ff7f48 26px 26px, #ff8048 27px 27px, #ff8149 28px 28px,
+                #ff8249 29px 29px, #ff834a 30px 30px, #ff844b 31px 31px, #ff864b 32px 32px,
+                #ff874c 33px 33px, #ff884c 34px 34px, #ff894d 35px 35px, #ff8a4e 36px 36px,
+                #ff8b4e 37px 37px, #ff8c4f 38px 38px, #ff8e4f 39px 39px, #ff8f50 40px 40px,
+                #ff9051 41px 41px, #ff9151 42px 42px, #ff9252 43px 43px, #ff9352 44px 44px,
+                #ff9453 45px 45px, #ff9654 46px 46px, #ff9754 47px 47px, #ff9855 48px 48px,
+                #ff9955 49px 49px, #ff9a56 50px 50px, #ff9b57 51px 51px, #ff9c57 52px 52px,
+                #FF6138 0px 0px;
+}
+.promo{
+    position: absolute;
+    width: 70%;
+    bottom: 0;
+    margin-bottom: 2%;
+    left: 32%
+}
